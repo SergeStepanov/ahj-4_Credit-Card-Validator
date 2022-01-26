@@ -9,18 +9,19 @@ export default function interactionsWithDOM() {
   input.addEventListener('input', () => {
     const resultPS = paymentSystem(input.value);
     // if (resultPS === 'unknown') return;
-    console.log(resultPS);
+    // console.log(resultPS);
     // console.log(cards);
 
-    for (const iterator of cards) {
+    for (const card of cards) {
       if (input.value.length === 0) {
-        iterator.style.opacity = 1;
+        card.style.opacity = 1;
+        document.body.style.backgroundColor = '#rgba(233, 233, 233, 0.842)';
       } else {
-        iterator.style.opacity = 0.3;
+        card.style.opacity = 0.3;
       }
 
-      if (iterator.classList.contains(resultPS)) {
-        iterator.style.opacity = 1;
+      if (card.classList.contains(resultPS)) {
+        card.style.opacity = 1;
       }
     }
   });
