@@ -2,7 +2,7 @@
 
 [![Build status](https://ci.appveyor.com/api/projects/status/l2uo2vqi8iipyk7l?svg=true)](https://ci.appveyor.com/project/SergeStepanov/ahj-4-credit-card-validator)
 
-[gh-pages]()
+[gh-pages](https://sergestepanov.github.io/ahj-4_Credit-Card-Validator/)
 
 ## Номера карт для проверки:
 
