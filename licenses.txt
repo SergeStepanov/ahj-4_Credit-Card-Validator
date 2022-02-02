@@ -1,0 +1,9 @@
+Картинки взяты с сайта:
+
+visa - https://findicons.com/icon/download/223562/visa_straight/102/png;
+master - https://findicons.com/icon/download/223569/mastercard_curved/102/png;
+amex - https://findicons.com/icon/download/direct/451688/american_express_curved_64px/102/png;
+discover - https://findicons.com/icon/download/223564/discover_curved/101/png;
+jcb - https://findicons.com/icon/download/608564/jcb/120/png;
+diners_club - https://findicons.com/icon/download/583376/diners_club/64/png;
+mir - http://lk.505171-ramsy.tmweb.ru/images/prices_banners/preview-logo-mir.png;
